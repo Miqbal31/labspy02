@@ -9,3 +9,6 @@
 9. Cetak “Bilangan Terbesar Bilangan Kedua”.
 10. Cetak “Bilangan Terbesar Bilangan Ketiga”.
 11. Selesai
+
+https://herdieselsantoso.files.wordpress.com/2013/01/2013-01-17_082540.jpg
+
